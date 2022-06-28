@@ -1,0 +1,11 @@
+{
+	"name": "@components/fallback-navigation",
+	"version": "0.0.1",
+	"main": "./index.ts",
+	"private": true,
+	"license": "UNLICENSED",
+	"peerDependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
